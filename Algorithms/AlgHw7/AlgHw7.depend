@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541204903 source:c:\users\deepp\desktop\algorithms\alghw7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

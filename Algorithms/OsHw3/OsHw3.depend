@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541283785 source:c:\users\deepp\desktop\algorithms\oshw3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<errno.h>
+

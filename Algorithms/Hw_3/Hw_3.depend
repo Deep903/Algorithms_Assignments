@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537904770 source:c:\users\deepp\desktop\algorithms\hw_3\src\instructor_client.c
+	<stdio.h>
+	<stdlib.h>
+	"list_hw.h"
+
+1537563949 c:\users\deepp\desktop\algorithms\hw_3\include\list_hw.h
+
+1537908669 source:c:\users\deepp\desktop\algorithms\hw_3\src\list_hw.c
+	<stdio.h>
+	<stdlib.h>
+	"list_hw.h"
+

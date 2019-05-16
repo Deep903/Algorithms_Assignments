@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541545691 source:c:\users\deepp\desktop\algorithms\exam2practice\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539381761 source:c:\users\deepp\desktop\algorithms\hw4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
